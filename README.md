@@ -2,7 +2,7 @@
 percabangan java
 
 pada minggu ke 3 ini saya mempelajari tentang percangan yaitu if, if else dan switch case
-# 📘 CCK1DAB4 - Algoritma dan Pemrograman Komputer
+# 📘 Algoritma dan Pemrograman Komputer
 
 ## Bab VI – Perulangan
 
