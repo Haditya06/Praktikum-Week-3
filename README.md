@@ -2,11 +2,11 @@
 percabangan java
 
 pada minggu ke 3 ini saya mempelajari tentang percangan yaitu if, if else dan switch case
-# 📘 Algoritma dan Pemrograman Komputer
+# 📘 Algoritma Pemrograman 
 
 ## Bab VI – Perulangan
 
-tugas praktik dari mata kuliah **Algoritma dan Pemrograman Komputer** Program Studi **Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2024)**.
+tugas praktik dari mata kuliah **Algoritma Pemrograman** Program Studi **Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2024)**.
 Topik utama pada bab ini adalah **Perulangan (Looping)** — konsep dasar dalam pemrograman untuk mengeksekusi blok kode secara berulang berdasarkan kondisi tertentu.
 
 ---
@@ -91,7 +91,7 @@ Seluruh soal dikerjakan menggunakan **Java**, dengan fokus pada struktur dasar:
 
 ## 📄 Referensi
 
-Materi ini mengacu pada beberapa sumber klasik dalam algoritma dan pemrograman, di antaranya:
+Materi ini mengacu pada beberapa sumber klasik dalam algoritma pemrograman, di antaranya:
 
 * Cormen et al., *Introduction to Algorithms* (MIT Press, 2009)
 * Sedgewick, *Algorithms in Java* (Pearson, 2002)
