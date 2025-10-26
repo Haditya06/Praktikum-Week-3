@@ -6,14 +6,12 @@ pada minggu ke 3 ini saya mempelajari tentang percangan yaitu if, if else dan sw
 
 ## Bab VI – Perulangan
 
-Dokumen ini merupakan materi dan kumpulan tugas praktik dari mata kuliah **Algoritma dan Pemrograman Komputer** Program Studi **Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2024)**.
+tugas praktik dari mata kuliah **Algoritma dan Pemrograman Komputer** Program Studi **Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2024)**.
 Topik utama pada bab ini adalah **Perulangan (Looping)** — konsep dasar dalam pemrograman untuk mengeksekusi blok kode secara berulang berdasarkan kondisi tertentu.
 
 ---
 
 ## 🎯 Tujuan Pembelajaran
-
-Mahasiswa diharapkan mampu:
 
 1. Menggunakan berbagai jenis struktur perulangan (`for`, `while`, dan `do-while`).
 2. Melakukan *tracing* dan memahami alur logika dari proses iteratif dalam kode program.
