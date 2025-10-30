@@ -1,8 +1,7 @@
 # Praktikum-Week-3
-percabangan java
+## percabangan java
 
-pada minggu ke 3 ini saya mempelajari tentang percangan yaitu if, if else dan switch case
-# 📘 Algoritma Pemrograman 
+# 📘 Algoritma Pemrograman  
 
 ## Bab VI – Perulangan
 
@@ -86,18 +85,6 @@ Seluruh soal dikerjakan menggunakan **Java**, dengan fokus pada struktur dasar:
 * Kontrol alur (`if-else`, `for`, `while`, `do-while`)
 * Operasi logika dan aritmatika
 * Penggunaan kelas `Random` untuk menghasilkan nilai acak
-
----
-
-## 📄 Referensi
-
-Materi ini mengacu pada beberapa sumber klasik dalam algoritma pemrograman, di antaranya:
-
-* Cormen et al., *Introduction to Algorithms* (MIT Press, 2009)
-* Sedgewick, *Algorithms in Java* (Pearson, 2002)
-* Deitel & Deitel, *Java How to Program* (Prentice Hall, 2011)
-* Poo et al., *Object-Oriented Programming and Java* (Springer, 2010)
-* Wu, *An Introduction to Object-Oriented Programming with Java* (McGraw-Hill, 2009)
 
 ---
 
