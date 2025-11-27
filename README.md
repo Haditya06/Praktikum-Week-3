@@ -19,7 +19,7 @@ Topik utama nya adalah **Perulangan (Looping)** — konsep dasar dalam pemrogram
 
 ## 🧠 Materi dan Tugas
 
-### 🧩 **Jurnal Terbimbing**
+### 🧩 **Jurnal Terbimbing** 
 
 #### 1. Mencari Bilangan Terkecil `n` Sehingga `n³ > Input`
 
